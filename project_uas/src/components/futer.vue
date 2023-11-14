@@ -1,6 +1,6 @@
 <template>
     <!-- Footer -->
-    <footer class="text-center text-lg-start bg-light text-muted">
+    <footer class="text-center text-lg-start bg-light text-muted custom-futer">
         <!-- Section: Social media -->
         <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
             <!-- Left -->
@@ -122,3 +122,9 @@
     </footer>
 <!-- Footer -->
 </template>
+
+<style scoped>
+.custom-futer {
+    margin-top:100px;
+}
+</style>

@@ -24,7 +24,7 @@
     </div>
 </template>
 
-<style>
+<style scoped>
 #iklan {
     max-width: 1500px;
     margin-top: 100px;
