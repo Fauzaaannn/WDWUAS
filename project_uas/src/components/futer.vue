@@ -49,7 +49,7 @@
                     <!-- Grid column -->
                     <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
                         <!-- Links -->
-                        <h6 class="text-uppercase fw-bold mb-4" style="font-family: Product Sans; font-size: 25px;">
+                        <h6 class="mb-4" style="font-family: Marko One; font-size: 30px;">
                             Categories
                         </h6>
                         <p>
@@ -70,7 +70,7 @@
                     <!-- Grid column -->
                     <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                         <!-- Links -->
-                        <h6 class="text-uppercase fw-bold mb-4" style="font-family: Product Sans; font-size: 25px;">
+                        <h6 class="mb-4" style="font-family: Marko One; font-size: 30px;">
                             Collection
                         </h6>
                         <p>
@@ -85,14 +85,17 @@
                     <!-- Grid column -->
                     <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                         <!-- Links -->
-                        <h6 class="text-uppercase fw-bold mb-4" style="font-family: Product Sans; font-size: 25px;">Contact us</h6>
-                        <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
+                        <h6 class="mb-4" style="font-family: Marko One; font-size: 30px;">Contact us</h6>
                         <p>
                             <i class="fas fa-envelope me-3"></i>
-                            info@example.com
+                            @fashiondaily_
                         </p>
-                        <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
-                        <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
+                        <p><i class="fas fa-phone me-3"></i>081209793456</p>
+                        <p>
+                            <i class="fas fa-envelope me-3"></i>
+                            fashiondaily@gamil.com
+                        </p>
+                        <p><i class="fas fa-home me-3"></i> Jalan Kertajaya</p>
                     </div>
                     <!-- Grid column -->
                 </div>
@@ -112,6 +115,7 @@
 </template>
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Poppins:wght@400;600&display=swap');
 .custom-futer {
     margin-top:200px;
 }

@@ -42,14 +42,16 @@
 </template>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Poppins:wght@400;600&display=swap');
+
 .custom-nav {
     font-size: 20px;
-    font-family: Product Sans;
+    font-family: Marko One;
 }
 
 .cta {
     background-color: #DDD2C6;
-    font-family: Product Sans;
+    font-family: Marko One;
     color: #8E4739;
     border: none;
     border-radius: 12px;
