@@ -34,8 +34,8 @@
                 </li>
             </ul>
         </div>
-            <a class="cta ms-5 px-2 py-0" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Log in</button></a>
-            <a class="cta me-5 ms-3 px-2" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Sign up</button></a>
+            <a class="cta ms-5 px-2 py-0" href="#" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Log in</button></a>
+            <a class="cta me-5 ms-3 px-2" href="#" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Sign up</button></a>
     </div>
 </nav>
 
@@ -59,6 +59,6 @@
 }
 
 .custom-head{
-    background-color: white;
+    background-color: #F1EFEF;
 }
 </style>

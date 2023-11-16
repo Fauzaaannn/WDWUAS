@@ -1,5 +1,12 @@
 <template>
-  <div id="iklan" class="container mt-4">
+  <h1 class="title text-center fw-bold" 
+    style="font-family: Product Sans; 
+    margin-top: 110px; 
+    margin-bottom: 10px;
+    font-size: 55px;"
+  >New Arrival</h1>
+
+  <div id="iklan" class="container">
     <div class="row">
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">

@@ -15,7 +15,7 @@
                 </div>
             </a>
             <!-- card 2 -->
-            <a class="card mb-3 col ms-5 border-0 rounded-4 shadow" style="max-width: 700px; max-height: 180px; overflow: hidden; text-decoration: none;">
+            <a class="card mb-3 col ms-5 border-0 rounded-4 shadow" href="#" style="max-width: 700px; max-height: 180px; overflow: hidden; text-decoration: none;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="../assets/Woman.png" class="img-fluid rounded-start" style="max-width: 200px;">
