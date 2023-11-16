@@ -93,7 +93,7 @@
                         <p><i class="fas fa-phone me-3"></i>081209793456</p>
                         <p>
                             <i class="fas fa-envelope me-3"></i>
-                            fashiondaily@gamil.com
+                            fashiondaily@gmail.com
                         </p>
                         <p><i class="fas fa-home me-3"></i> Jalan Kertajaya</p>
                     </div>

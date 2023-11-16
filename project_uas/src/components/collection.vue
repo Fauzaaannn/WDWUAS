@@ -1,32 +1,42 @@
 <template>
-    <div class="container row pt-5 px-3">
-        <div class="card mb-3 col-6" style="max-width: 540px;">
-            <div class="row g-0">
-                <div class="col-md-4">
-                    <img src="..." class="img-fluid rounded-start" alt="...">
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    <div class="custom-collection">
+        <div class="row pt-5 px-3">
+            <!-- card 1 -->
+            <a class="card mb-3 col float-start border-0 rounded-4 shadow" href="#" style="max-width: 700px; max-height: 180px; overflow: hidden; text-decoration: none;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="../assets/Man.png" class="img-fluid rounded-start" style="max-width: 200px;">
+                    </div>
+                    <div class="col-md-8" style="margin-top: 50px; margin-bottom: 50px;">
+                        <div class="card-body">
+                            <h1 style="font-family: Marko One; font-size: 35px;">Man's Collection</h1>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="card mb-3 col-6" style="max-width: 540px;">
-            <div class="row g-0">
-                <div class="col-md-4">
-                    <img src="..." class="img-fluid rounded-start" alt="...">
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+            </a>
+            <!-- card 2 -->
+            <a class="card mb-3 col ms-5 border-0 rounded-4 shadow" style="max-width: 700px; max-height: 180px; overflow: hidden; text-decoration: none;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="../assets/Woman.png" class="img-fluid rounded-start" style="max-width: 200px;">
+                    </div>
+                    <div class="col-md-8" style="margin-top: 50px; margin-bottom: 50px;">
+                        <div class="card-body">
+                            <h1 style="font-family: Marko One; font-size: 35px;">Woman's Collection</h1>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </a>
+            <!-- card -->
         </div>
     </div>
 </template>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Poppins:wght@400;600&display=swap');
+.custom-collection {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+</style>
