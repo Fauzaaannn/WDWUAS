@@ -1,5 +1,5 @@
 <template>
-    <div id="iklan" class="container pt-5 px-3" style="max-width: 1480px;">
+    <div id="iklan" class="container pt-5 px-3 mb-5" style="max-width: 1480px;">
         <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="10000">

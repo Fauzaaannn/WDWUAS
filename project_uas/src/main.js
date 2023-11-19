@@ -1,8 +1,10 @@
 import { createApp } from 'vue'
 import './style.css'
-import App from './App.vue'
+// import Home from './views/Home.vue'
+import mancoll from './views/mancoll.vue'
 
 import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.css'
 
-createApp(App).mount('#app')
+// createApp(Home).mount('#app')
+createApp(mancoll).mount('#app')

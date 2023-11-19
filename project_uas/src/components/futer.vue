@@ -117,6 +117,6 @@
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Poppins:wght@400;600&display=swap');
 .custom-futer {
-    margin-top:200px;
+    margin-top: 200px;
 }
 </style>

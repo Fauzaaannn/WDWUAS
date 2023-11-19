@@ -1,6 +1,6 @@
 <template>
     <div class="custom-collection">
-        <div class="row pt-5 px-3">
+        <div class="row px-3">
             <!-- card 1 -->
             <a class="card mb-3 col float-start border-0 rounded-4 shadow" href="#" style="max-width: 700px; max-height: 180px; overflow: hidden; text-decoration: none;">
                 <div class="row g-0">
