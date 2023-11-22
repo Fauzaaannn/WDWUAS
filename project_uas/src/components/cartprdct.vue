@@ -5,7 +5,7 @@
     </div>
     <div class="container float-start" style="margin-left: 200px; width: 900px;">
         <!-- card 1 -->
-        <div class="card mb-3 border-0 rounded-4 shadow" style="max-width: 880px; height: 180px; overflow: ;">
+        <div class="card mb-3 border-0 rounded-4 shadow" style="max-width: 880px; height: 180px;" type="button" data-bs-toggle="modal" data-bs-target="#cardproduct1">
             <div class="row g-0">
                 <div class="col-md-4 px-2 pt-2 pb-2" style="max-width: 170px;">
                     <img src="../assets/hoodie.jpeg" class="img-fluid rounded-4" style="max-width: 165px;">
@@ -32,7 +32,7 @@
             </div>
         </div>
         <!-- card 2 -->
-        <div class="card mb-3 border-0 rounded-4 shadow" style="max-width: 880px; height: 180px; overflow: ;">
+        <div class="card mb-3 border-0 rounded-4 shadow" style="max-width: 880px; height: 180px;">
             <div class="row g-0">
                 <div class="col-md-4 px-2 pt-2 pb-2" style="max-width: 170px;">
                     <img src="../assets/hoodie.jpeg" class="img-fluid rounded-4" style="max-width: 165px;">
@@ -59,7 +59,7 @@
             </div>
         </div>
         <!-- card 3 -->
-        <div class="card mb-3 border-0 rounded-4 shadow" style="max-width: 880px; height: 180px; overflow: ;">
+        <div class="card mb-3 border-0 rounded-4 shadow" style="max-width: 880px; height: 180px;">
             <div class="row g-0">
                 <div class="col-md-4 px-2 pt-2 pb-2" style="max-width: 170px;">
                     <img src="../assets/hoodie.jpeg" class="img-fluid rounded-4" style="max-width: 165px;">
@@ -86,7 +86,7 @@
             </div>
         </div>
     </div>
-
+    <!-- rekap belanjaan -->
     <div class="container float-start" style="width: 400px;">
       <div class="card border-0 shadow rounded-4">
         <a href="#" class="btn p-2 mt-3 mx-3 custom-promo">Makin Hemat Pakai Promo</a>
@@ -101,6 +101,36 @@
           <h4 class="card-title fw-semibold mt-0 me-3 mb-4 float-end" style="width: fit-content;">  -</h4>
         </div>
         <a href="#" class="btn p-2 mx-3 mb-3 custom-beli">Beli (0)</a>
+      </div>
+    </div>
+    <!-- Modal Pop up -->
+    <div class="modal fade" id="cardproduct1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-body">
+            <div class="container text-center">
+              <div class="row g-2">
+                <div class="col-6 border">
+                  <div class="p-0">
+                    <img src="../assets/hoodie.jpeg" style="width:150px; height:150px;">
+                  </div>
+                </div>
+                <div class="col-6 border">
+                  <div class="p-3">Custom column padding</div>
+                </div>
+                <div class="col-6 border">
+                  <div class="p-3">Custom column padding</div>
+                </div>
+                <div class="col-6 border">
+                  <div class="p-3">Custom column padding</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -210,5 +240,10 @@ export default {
   .custom-beli:hover {
     background-color: #E2C799;
     color: #8E4739;
+  }
+
+  .custom-modhead {
+    width: 50px;
+    border: none;
   }
 </style>
