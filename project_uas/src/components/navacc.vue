@@ -6,8 +6,8 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto ms-auto mb-2 mb-lg-0 d-flex justify-content-center custom-nav">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent" style="max-width: 900px; margin-left: 90px;">
+                <ul class="navbar-nav me-auto ms-auto mb-2 mb-lg-0 mx-3 d-flex justify-content-center custom-nav">
                     <li class="nav-item">
                         <a class="nav-link active m-4" aria-current="page" href="#">Home</a>
                     </li>
@@ -34,11 +34,7 @@
                     </li>
                 </ul>
             </div>
-
                 <img class="mx-3 mt-1" src="../assets/shopping-cart.png"><img src="../assets/profile.png"><h5 class="mx-2 mt-2" style="font-family: Marko One;">Fauzan Abderrasheed</h5>
-
-                <!-- <a class="cta ms-5 px-2 py-0" href="#" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Log in</button></a>
-                <a class="cta me-5 ms-3 px-2" href="#" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Sign up</button></a> -->
         </div>
     </nav>
     
