@@ -105,30 +105,95 @@
     </div>
     <!-- Modal Pop up -->
     <div class="modal fade" id="cardproduct1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <div class="modal-body">
-            <div class="container text-center">
+      <div class="modal-dialog modal-dialog-centered" style="width: 1000px; max-width: 80%;">
+        <div class="modal-content" style="height:700px;">
+          <div class="modal-body p-0 mt-3 mx-3 mb-3">
+            <div class="container text-center p-0">
               <div class="row g-2">
-                <div class="col-6 border">
+                <div class="col-6" style="width:420px;">
                   <div class="p-0">
-                    <img src="../assets/hoodie.jpeg" style="width:150px; height:150px;">
+                    <img src="../assets/hoodie.jpeg" style="width:400px; height:400px;" class="rounded-3 shadow">
                   </div>
                 </div>
-                <div class="col-6 border">
-                  <div class="p-3">Custom column padding</div>
+                <div class="col-6" style="width: 550px;">
+                  <div class="p-3 float-start text-start">
+                    <h5 class="card-title" style="font-size: 40px">Jerzees Hoodie</h5>
+                    <h5 class="mt-2" style="width: fit-content; font-size: 18px;">4.0 <img src="../assets/Starsrating.png" style="width: 100px;"></h5>
+                    <h5 class="card-title mb-3" style="font-size: 35px">Rp 100.000</h5>
+                  <!-- Scrollable content for Scrollspy -->
+                    <div data-bs-spy="scroll" data-bs-offset="0" class="scrollspy-example bg-body-tertiary p-3 rounded-2 custom-scroll1" style="overflow-y: scroll; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <h4 id="scrollspyHeading1">First heading</h4>
+                        <p>lorem</p>
+                    </div>
+                  </div>
                 </div>
-                <div class="col-6 border">
-                  <div class="p-3">Custom column padding</div>
+                <div class="col-6" style="width: 650px;">
+                  <div data-bs-spy="scroll" data-bs-offset="0" class="scrollspy-example bg-body-tertiary p-3 rounded-2 custom-scroll2" style="overflow-y: scroll; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <h4 id="scrollspyHeading2">First heading</h4>
+                        <p>...</p>
+                    </div>
                 </div>
-                <div class="col-6 border">
-                  <div class="p-3">Custom column padding</div>
+                <div class="col-6" style="width: 320px">
+                  <h4 class="text-start mb-3">Jumlah Rating</h4>
+                  <p class="mb-3">90% Pembeli merasa puas</p>
+                  <!-- bintang 5 -->
+                  <div class="row" style="height: 25px">
+                    <div class="col-6 col-md-4 mt-0 float-start pe-0 d-inline-block" style="width: fit-content; height: fit-content;">
+                      <h5 class="mt-0" style="width: fit-content; font-size: 17px;">5 <img src="../assets/star.png" style="width: 15px;"></h5>
+                    </div>
+                    <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
+                      <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
+                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- bintang 4 -->
+                  <div class="row" style="height: 25px">
+                    <div class="col-6 col-md-4 mt-0 float-start pe-0 d-inline-block" style="width: fit-content; height: fit-content;">
+                      <h5 class="mt-0" style="width: fit-content; font-size: 17px;">4 <img src="../assets/star.png" style="width: 15px;"></h5>
+                    </div>
+                    <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
+                      <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
+                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- bintang 3 -->
+                  <div class="row" style="height: 25px">
+                    <div class="col-6 col-md-4 mt-0 float-start pe-0 d-inline-block" style="width: fit-content; height: fit-content;">
+                      <h5 class="mt-0" style="width: fit-content; font-size: 17px;">3 <img src="../assets/star.png" style="width: 15px;"></h5>
+                    </div>
+                    <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
+                      <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
+                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- bintang 2 -->
+                  <div class="row" style="height: 25px">
+                    <div class="col-6 col-md-4 mt-0 float-start pe-0 d-inline-block" style="width: fit-content; height: fit-content;">
+                      <h5 class="mt-0" style="width: fit-content; font-size: 17px;">2 <img src="../assets/star.png" style="width: 15px;"></h5>
+                    </div>
+                    <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
+                      <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
+                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- bintang 1 -->
+                  <div class="row" style="height: 25px">
+                    <div class="col-6 col-md-4 mt-0 float-start pe-0 d-inline-block" style="width: fit-content; height: fit-content;">
+                      <h5 class="mt-0" style="width: fit-content; font-size: 17px;">1 <img src="../assets/star.png" style="width: 15px;"></h5>
+                    </div>
+                    <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
+                      <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
+                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
       </div>
@@ -245,5 +310,17 @@ export default {
   .custom-modhead {
     width: 50px;
     border: none;
+  }
+
+  .custom-scroll1 {
+    width: 520px;
+    height: 240px;
+    border-radius: 15px;
+  }
+
+  .custom-scroll2 {
+    width: 620px;
+    height: 240px;
+    border-radius: 15px;
   }
 </style>
