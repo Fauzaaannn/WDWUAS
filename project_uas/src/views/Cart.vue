@@ -1,5 +1,5 @@
 <script setup>
-  import navbar from '../components/navbar.vue'
+  import navacc from '../components/navacc.vue'
   import cartprdct from '../components/cartprdct.vue'
   import futer from '../components/futer.vue';
   
@@ -7,7 +7,7 @@
 
 <template>
   <header>
-    <navbar/>
+    <navacc/>
   </header>
   <div class="container" style="max-width: 2000px">
     <cartprdct/>
