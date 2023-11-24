@@ -27,7 +27,7 @@
             <div class="form-check">
                 <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
                 <label class="form-check-label" for="flexCheckChecked">
-                    Turtle Neck
+                    Croptop
                 </label>
             </div>
         </div>
@@ -37,13 +37,13 @@
             <div class="form-check">
                 <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
                 <label class="form-check-label" for="flexCheckChecked">
-                    Trousers
+                    Skirt
                 </label>
             </div>
             <div class="form-check">
                 <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
                 <label class="form-check-label" for="flexCheckChecked">
-                    Cargo Pants
+                    Kulot
                 </label>
             </div>
             <div class="form-check">

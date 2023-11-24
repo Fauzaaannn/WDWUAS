@@ -11,45 +11,55 @@
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
@@ -59,45 +69,55 @@
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
       <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <div class="card-body p-0 mt-3 mb-3">
+            <h5 class="card-title">Bomber Jacket</h5>
+            <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
+            <p class="card-text mb-2">Kota Surabaya</p>
+            <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
       </div>
@@ -108,5 +128,9 @@
 <style>
 #iklan {
     max-width: 1500px;
+}
+
+.card-title {
+  font-family: Marko One;
 }
 </style>

@@ -5,12 +5,12 @@
     </div>
     <div class="container float-start" style="margin-left: 200px; width: 900px;">
         <!-- card 1 -->
-        <div class="card mb-3 border-0 rounded-4 shadow" style="max-width: 880px; height: 180px;" type="button" data-bs-toggle="modal" data-bs-target="#cardproduct1">
+        <div class="card mb-3 border-0 rounded-4 shadow" style="max-width: 880px; height: 180px;">
             <div class="row g-0">
                 <div class="col-md-4 px-2 pt-2 pb-2" style="max-width: 170px;">
                     <img src="../assets/hoodie.jpeg" class="img-fluid rounded-4" style="max-width: 165px;">
                 </div>
-                <div class="col-md-4" style="width: 400px;">
+                <div class="col-md-4" style="width: 400px;" type="button" data-bs-toggle="modal" data-bs-target="#cardproduct1">
                     <div class="card-body ms-2 mt-1" style="font-family: Marko One;">
                         <h5 class="card-title" style="font-size: 27px">Jerzees Hoodie</h5>
                         <p class="card-text mb-1" style="font-size: 14px">Size L (120 cm x 120 cm)</p>
@@ -37,7 +37,7 @@
                 <div class="col-md-4 px-2 pt-2 pb-2" style="max-width: 170px;">
                     <img src="../assets/hoodie.jpeg" class="img-fluid rounded-4" style="max-width: 165px;">
                 </div>
-                <div class="col-md-4" style="width: 400px;">
+                <div class="col-md-4" style="width: 400px;" type="button" data-bs-toggle="modal" data-bs-target="#cardproduct1">
                     <div class="card-body ms-2 mt-1" style="font-family: Marko One;">
                         <h5 class="card-title" style="font-size: 27px">Jerzees Hoodie</h5>
                         <p class="card-text mb-1" style="font-size: 14px">Size L (120 cm x 120 cm)</p>
@@ -64,7 +64,7 @@
                 <div class="col-md-4 px-2 pt-2 pb-2" style="max-width: 170px;">
                     <img src="../assets/hoodie.jpeg" class="img-fluid rounded-4" style="max-width: 165px;">
                 </div>
-                <div class="col-md-4" style="width: 400px;">
+                <div class="col-md-4" style="width: 400px;" type="button" data-bs-toggle="modal" data-bs-target="#cardproduct1">
                     <div class="card-body ms-2 mt-1" style="font-family: Marko One;">
                         <h5 class="card-title" style="font-size: 27px">Jerzees Hoodie</h5>
                         <p class="card-text mb-1" style="font-size: 14px">Size L (120 cm x 120 cm)</p>
@@ -122,16 +122,25 @@
                     <h5 class="card-title mb-3" style="font-size: 35px">Rp 100.000</h5>
                   <!-- Scrollable content for Scrollspy -->
                     <div data-bs-spy="scroll" data-bs-offset="0" class="scrollspy-example bg-body-tertiary p-3 rounded-2 custom-scroll1" style="overflow-y: scroll; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                        <h4 id="scrollspyHeading1">First heading</h4>
-                        <p>lorem</p>
+                        <h4 id="scrollspyHeading2" class="text-start" style="font-weight: bold;">Deskripsi Produk:</h4>
+                        <p class="text-start">Hoodie branded ini merupakan pilihan sempurna untuk gaya kasual yang nyaman dan stylish. Didesain dengan detail yang teliti, hoodie ini terbuat dari bahan berkualitas tinggi yang memberikan sensasi dingin yang menyenangkan saat dipakai. Kombinasi kenyamanan dan gaya, hoodie ini menghadirkan sentuhan fashion yang tak terbantahkan. Dengan ukuran standar nasional, hoodie ini cocok untuk berbagai bentuk tubuh, menjamin penampilan yang luar biasa tanpa kehilangan kenyamanan. Tambahkan sentuhan urban chic ke koleksi pakaian Anda dengan hoodie ini yang tidak hanya menawarkan kehangatan, tetapi juga gaya yang tak lekang oleh waktu.</p>
                     </div>
                   </div>
                 </div>
                 <div class="col-6" style="width: 650px;">
                   <div data-bs-spy="scroll" data-bs-offset="0" class="scrollspy-example bg-body-tertiary p-3 rounded-2 custom-scroll2" style="overflow-y: scroll; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                        <h4 id="scrollspyHeading2">First heading</h4>
-                        <p>...</p>
-                    </div>
+                    <h4 id="scrollspyHeading2" class="text-start" style="font-weight: bold;">Komentar Pelanggan:</h4>
+                    <p class="text-start mb-1 fw-bold">@Jazon002</p>
+                    <p class="text-start mb-2">Hoodie ini sungguh nyaman! Bahan dinginnya sangat pas untuk cuaca sejuk, dan ukurannya sesuai standar nasional</p>
+                    <p class="text-start mb-1 fw-bold">@masbro202</p>
+                    <p class="text-start mb-2">Desainnya keren banget! Bikin penampilan jadi lebih kece, plus bahan berkualitas tinggi membuatnya worth it!</p>
+                    <p class="text-start mb-1 fw-bold">@mbakbro203</p>
+                    <p class="text-start mb-2">Pengiriman super cepat, pelayanan pelanggan responsif. Hoodie ini benar-benar memuaskan, puas banget!</p>
+                    <p class="text-start mb-1 fw-bold">@SiOjan</p>
+                    <p class="text-start mb-2">Sudah beli beberapa produk dari brand ini, selalu memuaskan. Hoodie ini tidak terkecuali, kualitasnya top!</p>
+                    <p class="text-start mb-1 fw-bold">@manusia.penyindir</p>
+                    <p class="text-start mb-2">Besar fan hoodie ini! Cocok dipakai di segala kesempatan, dan bahan dinginnya bikin nyaman sepanjang hari</p>
+                  </div>
                 </div>
                 <div class="col-6" style="width: 320px">
                   <h4 class="text-start mb-3">Jumlah Rating</h4>
