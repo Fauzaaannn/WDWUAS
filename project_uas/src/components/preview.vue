@@ -1,5 +1,5 @@
 <template>
-    <div class="container" style="margin-top: 200px; width: 500px">
+    <div class="container" style="margin-top: 200px;">
         <div class="d-flex">
             <div class="row g-2 gy-4 d-block">
                 <div class="col-9" style="width: 490px;">
@@ -44,13 +44,17 @@
                         <a href="#" class="btn p-2 mt-3 mb-3 mx-3 custom-promo">Beli Langsung</a>
                     </div>
                 </div>
-
+            </div>
+            <div class="row">
+              <div class="border d-flex float-end" style="width: 800px; height: 1000px;">
+                  masih di style
+              </div>
             </div>
         </div>
-        <div class="border d-flex float-end" style="width: 800px; height: 700px;">
-            masih di style
-        </div>
-    </div>
+      </div>
+      
+        
+      
 </template>
 
 <script>
