@@ -46,15 +46,77 @@
                 </div>
             </div>
             <div class="row">
-              <div class="border d-flex float-end" style="width: 800px; height: 1000px;">
-                  masih di style
+              <div class="d-flex float-end" style="width: 800px; height: 925px;">
+                <div class="p-3 float-start text-start">
+                    <h5 class="card-title mb-2 fw-bold" style="font-size: 35px">Jerzees Pullover Hooded Sweatshirt Hoodie</h5>
+                    <h5 style="width: fit-content; display: inline; font-size: 18px;" class="mb-2">Terjual 500+</h5>
+                    <p style="width: fit-content; display: inline; font-size: 18px;" class="mx-2">|</p>
+                    <h5 class="mt-2" style="width: fit-content; font-size: 18px; display: inline;">4.0 <img src="../assets/star.png" style="width: 18px;"> (300 rating)</h5>
+                    <p style="width: fit-content; display: inline; font-size: 18px;" class="mx-2">|</p>
+                    <h5 style="width: fit-content; display: inline; font-size: 18px;" class="mb-2">Diskusi (10)</h5>
+                    <h5 class="card-title mb-3 mt-2 fw-bold" style="font-size: 45px">Rp 100.000</h5>
+                    <div class="line-5 mt-4" style="width: 725px;"><hr></div>
+                    <div class="container text-center mb-4 mt-4 p-0">
+                      <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+                        <div class="col p-0 mx-1" style="width: fit-content;">
+                          <button type="button" class="btn btn-outline-secondary">Size S</button>
+                        </div>
+                        <div class="col p-0 mx-1" style="width: fit-content;">
+                          <button type="button" class="btn btn-outline-secondary">Size M</button>
+                        </div>
+                        <div class="col p-0 mx-1" style="width: fit-content;">
+                          <button type="button" class="btn btn-outline-secondary">Size L</button>
+                        </div>
+                        <div class="col p-0 mx-1" style="width: fit-content;">
+                          <button type="button" class="btn btn-outline-secondary">Size 2L</button>
+                        </div>
+                        <div class="col p-0 mx-1" style="width: fit-content;">
+                          <button type="button" class="btn btn-outline-secondary">Size XL</button>
+                        </div>
+                        <div class="col p-0 mx-1" style="width: fit-content;">
+                          <button type="button" class="btn btn-outline-secondary">Size XXL</button>
+                        </div>
+                        <div class="col p-0 mx-1" style="width: fit-content;">
+                          <button type="button" class="btn btn-outline-secondary">Size XXXL</button>
+                        </div>
+                        <div class="col p-0 mx-1" style="width: fit-content;">
+                          <button type="button" class="btn btn-outline-secondary">Big Size</button>
+                        </div>
+                      </div>
+                    </div>
+                    <h4 class="mb-4 fw-bold">Detail dan Deskripsi Produk</h4>
+                  <!-- Scrollable content for Scrollspy -->
+                    <div data-bs-spy="scroll" data-bs-offset="0" class="scrollspy-example bg-body-tertiary p-3 rounded-2 custom-scroll1" style="overflow-y: scroll; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); height: 600px;">
+                        <h4 id="scrollspyHeading2" class="text-start" style="font-weight: bold;">Deskripsi Produk:</h4>
+                        <p class="text-start">
+                          Hoodie Branded Berkualitas Tinggi
+
+                          Jadikan gaya Anda lebih trendi dan tetap nyaman dengan hoodie branded berkualitas tinggi ini. Dibuat dengan teliti untuk memenuhi standar tertinggi, hoodie ini tidak hanya memberikan penampilan yang stylish, tetapi juga kenyamanan maksimal sepanjang hari.
+
+                          Bahan Hoodie:
+
+                          Hoodie ini terbuat dari campuran serat berkualitas tinggi, dengan dominasi serat katun yang memberikan kelembutan dan kehangatan yang luar biasa. Campuran serat lainnya, seperti poliester atau spandex, memberikan kekuatan dan elastisitas tambahan pada kain, sehingga hoodie ini tetap tahan lama dan tidak kehilangan bentuknya meskipun sering dipakai.
+
+                          Bahan Motif:
+
+                          Motif pada hoodie ini dirancang dengan teliti untuk menciptakan tampilan yang unik dan estetis. Beberapa hoodie mungkin menggunakan teknik sablon tingkat tinggi untuk mencapai detail motif yang tajam, sementara yang lain mungkin memiliki aplikasi bordir yang elegan. Beberapa merek juga mungkin menggabungkan bahan berbeda untuk menciptakan efek tekstur atau menggunakan cetakan digital untuk menciptakan motif yang lebih kompleks.
+
+                          Fitur Tambahan:
+
+                          Selain bahan berkualitas, hoodie ini juga dilengkapi dengan fitur tambahan yang meningkatkan kenyamanan dan fungsionalitasnya. Hoodie mungkin dilengkapi dengan kantong depan yang nyaman, resleting berkualitas tinggi, atau detil desain khusus yang membuatnya lebih menonjol.
+
+                          Ketahanan dan Perawatan:
+
+                          Hoodie ini dirancang untuk tahan lama, sehingga Anda dapat menikmati gaya yang tak lekang oleh waktu. Untuk menjaga kualitasnya, disarankan untuk mencuci dengan hati-hati sesuai petunjuk perawatan yang disediakan oleh produsen.
+
+                          Dengan hoodie berkualitas tinggi ini, Anda tidak hanya mendapatkan pakaian fungsional, tetapi juga sebuah pernyataan gaya yang membedakan. Cocok untuk digunakan dalam berbagai kesempatan, baik itu santai di rumah, berkumpul dengan teman-teman, atau bahkan untuk menambahkan sentuhan kasual yang elegan dalam aktivitas sehari-hari Anda.
+                        </p>
+                    </div>
+                  </div>
               </div>
             </div>
         </div>
       </div>
-      
-        
-      
 </template>
 
 <script>
