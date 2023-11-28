@@ -8,7 +8,7 @@
 
   <div id="iklan" class="container">
     <div class="row">
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -18,8 +18,8 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      </router-link>
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -29,8 +29,8 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      </router-link>
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -40,8 +40,8 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      </router-link>
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -51,8 +51,8 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      </router-link>
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -62,11 +62,11 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
+      </router-link>
     </div>
 
     <div class="row">
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -76,8 +76,8 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      </router-link>
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -87,8 +87,8 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      </router-link>
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -98,8 +98,8 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      </router-link>
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -109,8 +109,8 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
-      <div class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow">
+      </router-link>
+      <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
           <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
@@ -120,7 +120,7 @@
             <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
           </div>
         </div>
-      </div>
+      </router-link>
     </div>
   </div>
 </template>

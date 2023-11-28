@@ -1,6 +1,6 @@
 <template>
   
-    <div class="container" style="margin-top: 200px; margin-left: 200px; width: 1500px;">
+    <div class="container" style="margin-top: 175px; margin-left: 200px; width: 1500px;">
       <h2 class="mb-4" style="font-size: 45px; font-family: Marko One;">Keranjang</h2>
     </div>
     <div class="container float-start" style="margin-left: 200px; width: 900px;">

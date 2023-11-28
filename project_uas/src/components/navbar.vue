@@ -1,5 +1,4 @@
 <template>
-
 <nav class="navbar navbar-expand-lg fixed-top shadow custom-head" style="height: 100px;">
     <div class="container-fluid">
         <a class="navbar-brand ms-5" href="#"><img src="../assets/Brand.png"></a>
@@ -34,11 +33,11 @@
                 </li>
             </ul>
         </div>
-            <a class="cta ms-5 px-2 py-0" href="#" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Log in</button></a>
+            <router-link to="/Homelog" class="cta ms-5 px-2 py-0" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Log in</button></router-link>
             <a class="cta me-5 ms-3 px-2" href="#" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Sign up</button></a>
     </div>
 </nav>
-
+<router-view></router-view>
 </template>
 
 <style>

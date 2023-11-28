@@ -1,7 +1,7 @@
 <script setup>
   import navacc from '../components/navacc.vue'
   import carousel from '../components/carousel.vue';
-  import futer from '../components/futer.vue';
+  import futer2 from '../components/futer2.vue';
   import filterman from '../components/filterman.vue';
   
 </script>
@@ -15,7 +15,7 @@
     <filterman/>
   </div>
   <footer>
-    <futer/>
+    <futer2/>
   </footer>
 </template>
 

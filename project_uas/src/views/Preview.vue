@@ -1,7 +1,7 @@
 <script setup>
   import navacc from '../components/navacc.vue'
   import preview from '../components/preview.vue'
-  import futer from '../components/futer.vue';
+  import futer2 from '../components/futer2.vue';
   
 </script>
 
@@ -13,7 +13,7 @@
     <preview/>
   </div>
   <footer>
-    <futer/>
+    <futer2/>
   </footer>
 </template>
 

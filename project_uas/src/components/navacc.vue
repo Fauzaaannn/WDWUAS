@@ -6,10 +6,10 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent" style="max-width: 900px; margin-left: 90px;">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent" style="max-width: 900px; margin-left: 43px;">
                 <ul class="navbar-nav me-auto ms-auto mb-2 mb-lg-0 mx-3 d-flex justify-content-center custom-nav">
                     <li class="nav-item">
-                        <a class="nav-link active m-4" aria-current="page" href="#">Home</a>
+                        <router-link to="/Homelog" class="nav-link active m-4" aria-current="page">Home</router-link>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link m-4" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -28,16 +28,17 @@
                         Collection
                         </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Man's Collection</a></li>
-                        <li><a class="dropdown-item" href="#">Woman's Collection</a></li>
+                        <li><router-link to="/mancoll" class="dropdown-item">Man's Collection</router-link></li>
+                        <li><router-link to="/womancoll" class="dropdown-item">Woman's Collection</router-link></li>
                     </ul>
                     </li>
                 </ul>
             </div>
-                <img class="mx-3 mt-1" src="../assets/shopping-cart.png"><img src="../assets/profile.png"><h5 class="mx-2 mt-2" style="font-family: Marko One;">Fauzan Abderrasheed</h5>
+            <router-link to="/Cart"><img class="mx-3 mt-1" src="../assets/shopping-cart.png"></router-link>
+            <img src="../assets/profile.png"><h5 class="mx-2 mt-2" style="font-family: Marko One;">Fauzan Abderrasheed</h5>
         </div>
     </nav>
-    
+    <router-view></router-view>
     </template>
     
     <style>

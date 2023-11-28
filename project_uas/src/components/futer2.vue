@@ -118,7 +118,7 @@
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Poppins:wght@400;600&display=swap');
 .custom-futer {
-    margin-top: 800px;
+    margin-top: 300px;
     box-shadow:-3px -5px 15px rgba(211,211,211,0.5);
 }
 </style>

@@ -3,7 +3,7 @@
   import carousel from '../components/carousel.vue';
   import card from '../components/card.vue';
   import collection from '../components/collection.vue';
-  import futer from '../components/futer.vue';
+  import futer2 from '../components/futer2.vue';
   
 </script>
 
@@ -17,7 +17,7 @@
     <card/>
   </div>
   <footer>
-    <futer/>
+    <futer2/>
   </footer>
 </template>
 
