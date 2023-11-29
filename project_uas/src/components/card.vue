@@ -10,7 +10,7 @@
     <div class="row">
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/shirts.jpg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
@@ -21,7 +21,7 @@
       </router-link>
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/sweater.jpeg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
@@ -32,7 +32,7 @@
       </router-link>
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/hudie.jpeg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
@@ -43,7 +43,7 @@
       </router-link>
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/hudiput.jpeg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
@@ -54,7 +54,7 @@
       </router-link>
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/jeans.jpeg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
@@ -68,7 +68,7 @@
     <div class="row">
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/shirts.jpeg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
@@ -79,7 +79,7 @@
       </router-link>
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/hudie.jpeg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
@@ -90,7 +90,7 @@
       </router-link>
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/hoodie.jpeg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
@@ -101,7 +101,7 @@
       </router-link>
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/hoodie.jpeg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
@@ -112,7 +112,7 @@
       </router-link>
       <router-link to="/Preview" class="card mt-5 mx-4 rounded-4 col-sm-2 border-0 shadow" style="text-decoration: none;">
         <div class="px-1 pt-3">
-          <img src="https://t.ly/PLH0L" class="card-img-top rounded-4" alt="...">
+          <img src="../assets/hoodie.jpeg" class="card-img-top rounded-4" alt="...">
           <div class="card-body p-0 mt-3 mb-3">
             <h5 class="card-title">Bomber Jacket</h5>
             <h4 class="card-title mt-2 mb-2">Rp100.000</h4>
