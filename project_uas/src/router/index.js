@@ -6,7 +6,8 @@ import mancoll from '../views/mancoll.vue'
 import womancoll from '../views/womancoll.vue'
 import cart from '../views/Cart.vue'
 import preview from '../views/Preview.vue'
-
+import login from '../views/Login.vue'
+import signup from '../views/Signup.vue'
 
 const routes = [
     {
@@ -37,6 +38,16 @@ const routes = [
     {
         path: '/Preview',
         component: preview
+    },
+
+    {
+        path: '/Login',
+        component: login
+    },
+
+    {
+        path: '/Signup',
+        component: signup
     }
 ]
 

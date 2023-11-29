@@ -86,7 +86,7 @@
                     </div>
                     <h4 class="mb-4 fw-bold">Detail dan Deskripsi Produk</h4>
                   <!-- Scrollable content for Scrollspy -->
-                    <div data-bs-spy="scroll" data-bs-offset="0" class="scrollspy-example bg-body-tertiary p-3 rounded-2 custom-scroll1" style="overflow-y: scroll; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); height: 600px;">
+                    <div data-bs-spy="scroll" data-bs-offset="0" class="scrollspy-example bg-body-tertiary p-3 rounded-2 custom-scroll1" style="overflow-y: scroll; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); height: 570px;">
                         <h4 id="scrollspyHeading2" class="text-start" style="font-weight: bold;">Deskripsi Produk:</h4>
                         <p class="text-start">
                           Hoodie Branded Berkualitas Tinggi

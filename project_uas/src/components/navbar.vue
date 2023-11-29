@@ -33,7 +33,7 @@
                 </li>
             </ul>
         </div>
-            <router-link to="/Homelog" class="cta ms-5 px-2 py-0" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Log in</button></router-link>
+            <router-link to="/Login" class="cta ms-5 px-2 py-0" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Log in</button></router-link>
             <a class="cta me-5 ms-3 px-2" href="#" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Sign up</button></a>
     </div>
 </nav>
