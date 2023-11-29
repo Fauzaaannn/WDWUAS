@@ -64,7 +64,7 @@
     <div class="d-inline-block ms-5">
     <!-- sweater -->
         <div id="sweater-div" class="row mb-3">
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/sweater.jpeg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Gildan Mens Sweater</h5>
@@ -72,8 +72,8 @@
                     <p class="card-text mb-2">Kota Malang</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            </router-link>
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/sweater.jpeg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Gildan Mens Sweater</h5>
@@ -81,8 +81,8 @@
                     <p class="card-text mb-2">Kota Malang</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            </router-link>
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/sweater.jpeg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Gildan Mens Sweater</h5>
@@ -90,8 +90,8 @@
                     <p class="card-text mb-2">Kota Malang</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            </router-link>
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/sweater.jpeg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Gildan Mens Sweater</h5>
@@ -99,11 +99,11 @@
                     <p class="card-text mb-2">Kota Malang</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
+            </router-link>
         </div>
     <!-- hoodies -->
         <div id="hoodies-div" class="row mb-3">
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/hoodie.jpeg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Jerzees Hoodie</h5>
@@ -111,8 +111,8 @@
                     <p class="card-text mb-2">Kota Sidoarjo</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            </router-link>
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/hoodie.jpeg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Jerzees Hoodie</h5>
@@ -120,8 +120,8 @@
                     <p class="card-text mb-2">Kota Sidoarjo</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            </router-link>
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/hoodie.jpeg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Jerzees Hoodie</h5>
@@ -129,8 +129,8 @@
                     <p class="card-text mb-2">Kota Sidoarjo</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            </router-link>
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/hoodie.jpeg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Jerzees Hoodie</h5>
@@ -138,11 +138,11 @@
                     <p class="card-text mb-2">Kota Sidoarjo</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
+            </router-link>
         </div>
     <!-- shirts -->
         <div id="shirts-div" class="row mb-3">
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/shirts.jpg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Utra Anet Shirt</h5>
@@ -150,8 +150,8 @@
                     <p class="card-text mb-2">Kota Bandung</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            </router-link>
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/shirts.jpg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Utra Anet Shirt</h5>
@@ -159,8 +159,8 @@
                     <p class="card-text mb-2">Kota Bandung</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            </router-link>
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/shirts.jpg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Utra Anet Shirt</h5>
@@ -168,8 +168,8 @@
                     <p class="card-text mb-2">Kota Bandung</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
-            <div class="card ms-3 border-0 shadow rounded-4" style="width: 266px;">
+            </router-link>
+            <router-link to="/Preview" class="card ms-3 border-0 shadow rounded-4" style="width: 266px; text-decoration: none;">
                 <img src="../assets/shirts.jpg" class="card-img-top mt-3 rounded-4">
                 <div class="card-body p-0 mt-3 mb-3 mx-1">
                     <h5 class="card-title">Utra Anet Shirt</h5>
@@ -177,9 +177,10 @@
                     <p class="card-text mb-2">Kota Bandung</p>
                     <p class="card-text mb-2" style="font-size: 17px"><small class="text-body-secondary">Terjual 100 | <img src="../assets/star.png" style="max-width: 14px; max-height: 14px;"> 5 (100 rating)</small></p>
                 </div>
-            </div>
+            </router-link>
         </div>
     </div>
+    <router-view></router-view>
 </template>
 
 <style>
