@@ -195,6 +195,10 @@
     font-family: Marko One;
 }
 
+.card-title {
+    font-family: Marko One;
+}
+
 </style>
 
 <script>

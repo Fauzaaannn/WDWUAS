@@ -3,13 +3,13 @@
         <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="10000">
-                    <img src="https://shorturl.at/qtKY4" class="d-block rounded-5 custom-carousel" alt="...">
+                    <img src="../assets/carousel1.jpeg" class="d-block rounded-5 custom-carousel" alt="...">
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                    <img src="https://shorturl.at/luxK9" class="d-block rounded-5 custom-carousel" alt="...">
+                    <img src="../assets/carousel2.jpeg" class="d-block rounded-5 custom-carousel" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="https://shorturl.at/fNTU3" class="d-block rounded-5 custom-carousel" alt="...">
+                    <img src="../assets/carousel3.jpeg" class="d-block rounded-5 custom-carousel" alt="...">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
