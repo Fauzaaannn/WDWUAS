@@ -125,7 +125,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 #iklan {
     max-width: 1500px;
 }

@@ -7,7 +7,7 @@
   
 </script>
 
-<template>
+<template id="home">
   <header>
     <navbar/>
   </header>
@@ -20,4 +20,6 @@
     <futer2/>
   </footer>
 </template>
+
+
 

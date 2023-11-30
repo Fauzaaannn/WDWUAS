@@ -33,7 +33,7 @@
     <router-view></router-view>
 </template>
 
-<style>
+<style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Poppins:wght@400;600&display=swap');
 .custom-collection {
     margin-left: 100px;

@@ -7,11 +7,11 @@
   
 </script>
 
-<template>
+<template id="home">
   <header>
     <navacc/>
   </header>
-  <div class="container" style="max-width: 2000px">
+  <div class="container" style="max-width: 2000px;">
     <carousel/>
     <collection/>
     <card/>
@@ -20,4 +20,6 @@
     <futer2/>
   </footer>
 </template>
+
+
 

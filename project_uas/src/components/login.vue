@@ -1,4 +1,5 @@
 <template>
+    <div class="login">
     <div class="card card-centered text-center mb-3 position-absolute top-50 start-50 translate-middle rounded-5" style="width: 500px; height: 595px;">
         <div class="card-body">
             <img src="../assets/Logo.png" class="mt-3 mb-4">
@@ -15,6 +16,7 @@
             </div>
         </div>
     </div>
+    </div>
     <router-view></router-view>
 </template>
 
@@ -25,12 +27,21 @@
 }
 
 body {
-    background-image: url('../assets/background.jpg');
+    margin: 0;
+    padding: 0;
+}
+
+
+.login {
+    background-image: url('../assets/background.jpg');  
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    margin: 0; /* Remove any default margin */
-    padding: 0; /* Remove any default padding */
+    height: 100vh; /* Menyesuaikan tinggi dengan viewport */
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .login-register{
