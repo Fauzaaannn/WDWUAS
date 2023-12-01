@@ -1,7 +1,7 @@
 <template>
     <div class="login">
         <div class="overlay">
-            <div class="card card-centered text-center mb-3 position-absolute top-50 start-50 translate-middle rounded-5" style="width: 500px; height: 595px;">
+            <div class="card card-centered text-center mb-3 position-absolute top-50 start-50 translate-middle rounded-5" style="width: 500px; height: 610px;">
                 <div class="card-body">
                     <img src="../assets/Logo.png" class="mt-3 mb-4">
                     <h3 class="card-title">Log in</h3>
@@ -13,7 +13,7 @@
                     </div>
                     <router-link to="/Homelog" class="btn btn-primary mt-5 rounded-4" style="width: 370px; height: 50px; font-size: 20px; font-family: Marko One;">Log in</router-link>
                     <div class="container mt-1 login-register" style="width: 390px;">
-                        <p>Belum punya akun?</p><router-link to="/Signup" class="register-link">Sign up</router-link>
+                        <p>Belum punya akun?</p><router-link to="/Signup" class="register-link" style="text-decoration: none;">Sign up</router-link>
                     </div>
                 </div>
             </div>

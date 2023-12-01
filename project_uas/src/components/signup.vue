@@ -16,7 +16,7 @@
                     </div>
                     <router-link to="/Homelog"  class="btn btn-primary mt-5 rounded-4" style="width: 370px; height: 50px; font-size: 20px; font-family: Marko One;">Sign in</router-link>
                     <div class="container mt-1 login-register" style="width: 390px;">
-                        <p>Sudah punya akun?</p><router-link to="/Login" class="register-link">Log in</router-link>
+                        <p>Sudah punya akun?</p><router-link to="/Login" class="register-link" style="text-decoration: none;">Log in</router-link>
                     </div>
                 </div>
             </div>
