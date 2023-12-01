@@ -1,15 +1,15 @@
 <template>
-    <div id="iklan" class="container pt-5 px-3 mb-5" style="max-width: 1480px;">
+    <div id="iklan" class="container pt-5 px-3 mb-5">
         <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="10000">
-                    <img src="../assets/carousel1.jpeg" class="d-block rounded-5 custom-carousel" alt="...">
+                    <img src="../assets/carousel1.jpeg" class="d-block rounded-5 custom-carousel">
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                    <img src="../assets/carousel2.jpeg" class="d-block rounded-5 custom-carousel" alt="...">
+                    <img src="../assets/carousel2.jpeg" class="d-block rounded-5 custom-carousel">
                 </div>
                 <div class="carousel-item">
-                    <img src="../assets/carousel3.jpeg" class="d-block rounded-5 custom-carousel" alt="...">
+                    <img src="../assets/carousel3.jpeg" class="d-block rounded-5 custom-carousel">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -26,7 +26,7 @@
 
 <style scoped>
 #iklan {
-    max-width: 1500px;
+    max-width: 1480px;
     margin-top: 100px;
 }
 

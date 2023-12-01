@@ -1,9 +1,9 @@
 <script setup>
   import navbar from '../components/navbar.vue'
   import carousel from '../components/carousel.vue';
-  import card from '../components/card.vue';
-  import collection from '../components/collection.vue';
-  import futer2 from '../components/futer2.vue';
+  import card2 from '../components/card2.vue';
+  import collection2 from '../components/collection2.vue';
+  import futerlog from '../components/futerlog.vue';
   
 </script>
 
@@ -13,11 +13,11 @@
   </header>
   <div class="container" style="max-width: 2000px">
     <carousel/>
-    <collection/>
-    <card/>
+    <collection2/>
+    <card2/>
   </div>
   <footer>
-    <futer2/>
+    <futerlog/>
   </footer>
 </template>
 

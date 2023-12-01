@@ -152,7 +152,7 @@
                     </div>
                     <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
                       <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
-                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                        <div class="progress-bar bg-warning" style="width: 85%"></div>
                       </div>
                     </div>
                   </div>
@@ -163,7 +163,7 @@
                     </div>
                     <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
                       <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
-                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                        <div class="progress-bar bg-warning" style="width: 70%"></div>
                       </div>
                     </div>
                   </div>
@@ -174,7 +174,7 @@
                     </div>
                     <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
                       <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
-                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                        <div class="progress-bar bg-warning" style="width: 60%"></div>
                       </div>
                     </div>
                   </div>
@@ -185,7 +185,7 @@
                     </div>
                     <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
                       <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
-                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                        <div class="progress-bar bg-warning" style="width: 45%"></div>
                       </div>
                     </div>
                   </div>
@@ -196,7 +196,7 @@
                     </div>
                     <div class="col-md-8 float-end d-inline-block mt-1" style="width: fit-content; height: fit-content">
                       <div class="progress float-end" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 250px;">
-                        <div class="progress-bar bg-warning" style="width: 80%"></div>
+                        <div class="progress-bar bg-warning" style="width: 20%"></div>
                       </div>
                     </div>
                   </div>

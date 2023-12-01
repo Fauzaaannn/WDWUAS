@@ -27,14 +27,14 @@
                     Collection
                     </a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Man's Collection</a></li>
-                    <li><a class="dropdown-item" href="#">Woman's Collection</a></li>
+                    <li><router-link to="/Login" class="dropdown-item" href="#">Man's Collection</router-link></li>
+                    <li><router-link to="/Login" class="dropdown-item" href="#">Woman's Collection</router-link></li>
                 </ul>
                 </li>
             </ul>
         </div>
             <router-link to="/Login" class="cta ms-5 px-2 py-0" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Log in</button></router-link>
-            <a class="cta me-5 ms-3 px-2" href="#" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Sign up</button></a>
+            <router-link to="/Signup" class="cta me-5 ms-3 px-2" href="#" style="box-shadow:-3px 3px 5px"><button class="btn fs-5 border-0" style="color: #8E4739">Sign up</button></router-link>
     </div>
 </nav>
 <router-view></router-view>
